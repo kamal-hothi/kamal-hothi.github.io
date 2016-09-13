@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :kamal_hothi
 facebook:
   username               :
   app_id                 :
@@ -78,10 +78,10 @@ analytics:
 # Site Author
 author:
   name             : "Kamal Hothi"
-  avatar           : "bio-photo.jpg"
-  bio              : "Data journalist and statistics student."
+  avatar           : "profile.jpg"
+  bio              : "Data journalist."
   location         : "Auckland, New Zealand"
-  email            :
+  email            : "harkanwal@fastmail.fm"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "kamal-hothi"
   google_plus      :
   keybase          :
   instagram        :
