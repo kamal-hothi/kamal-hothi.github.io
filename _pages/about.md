@@ -1,13 +1,13 @@
 ---
 title: "About Harkanwal"
 layout: single
-permalink: /about.html
+permalink: /about
 date: 2016-09-13
 modified: 2016-09-13
 excerpt: "Harkanwal works with data and enjoys the traveling from complexity to understanding."
 ---
 {% include base_path %}
 
-I work as a data journalist. This blog is collection of data analysis and technical posts.
+Traveling from complexity to understanding, with data and code.
 
-I am learning on both fronts, so if you have any suggestions please point out.
+This is an exercise in learning, please let me know where I can do better.
