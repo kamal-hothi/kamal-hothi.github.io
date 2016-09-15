@@ -1,16 +1,8 @@
 ---
-layout: archive
+layout: single
 author_profile: true
 ---
 
+<div id="home-text">Understanding New Zealand through data - this is a personal blog for <a href="/about">Harkanwal Singh</a>, the data editor at the New Zealand Herald, to share analysis and code behind the visualisations on <a href="http://insights.nzherald.co.nz">Herald Insights</a>.</div>
+
 {% include base_path %}
-
-Understanding New Zealand through data - this is a personal blog for <a href="/about">Harkanwal Singh</a>, data editor at the New Zealand Herald, to share analysis and code behind the visualisations on <a href="http://insights.nzherald.co.nz">Herald Insights</a>.
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
